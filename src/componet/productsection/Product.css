@@ -1,0 +1,76 @@
+.product-heading{
+    width: 450px;
+height: 72px;
+ font-family: Poppins;
+font-weight: 600;
+font-size: 48px;
+line-height: 100%;
+letter-spacing: 0%;
+color: black;
+border-bottom: 3px solid red;
+display: flex;
+margin-left: 550px;
+
+}
+.product-cardgroup{
+    margin-top: 50px;
+  
+}
+
+
+.card-tital{
+     margin-top: 0px;
+    width: 264px;
+font-family: Poppins;
+font-weight: 500;
+font-size: 34px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+
+
+}
+ 
+.card-text{
+    width: 270px;
+    margin-top: 10px;
+    font-family: Poppins;
+font-weight: 400;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0%;
+color: gray;
+margin-left: 20px;
+
+
+
+}
+ .b{
+
+   margin-top: -10px;
+ }
+ .heading{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ } 
+  .card-body{
+    border: 3px solid transparent;
+  }  
+
+   @media only screen and (max-width:440px){
+    .product-cardgroup{
+  
+  
+   }
+   .product-heading{
+    width: 230px;
+height: 38px;
+
+position: relative;
+right: 450px;
+font-size: 25px;
+}
+   
+
+   }

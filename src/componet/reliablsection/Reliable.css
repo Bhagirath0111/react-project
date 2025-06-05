@@ -1,0 +1,140 @@
+.main{
+    width: 100%;
+height: 300px;
+background-color: #3B4051;
+ display: flex;
+}
+.re-heading{
+    width: 400px;
+height: 35px;
+font-family: Poppins;
+font-weight: 600;
+font-size: 30px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+border-bottom: 2px solid red;
+
+}  
+ .he-re{
+    margin-left: 100px;
+    padding-top: 50px;
+ }
+  .firstbg-re{
+    background-image: url("./public/reliable-img/reliable-bg1.png");
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+    margin-top: 15px;
+  }
+
+  .second-re{
+     background-image: url("./public/reliable-img/reliable-bg2.png");
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    margin-left: 30px;
+  }
+  .second-re-info{
+    display: flex;
+   gap: 50px;
+   margin-left: 60px;
+   margin-top: 150px;
+    
+  }
+
+  .hdpe{
+    font-family: Poppins;
+font-weight: 500;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: white;
+
+  }
+  .re-info-num{
+    font-family: Poppins;
+font-weight: 500;
+font-size: 60px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: white;
+  }
+  .first-info{
+
+  }
+
+  @media only screen and (max-width:440px){
+
+
+      .main{
+    width: 100%;
+height:150px;
+background-color: #3B4051;
+ display: flex;
+}
+.re-heading{
+    width: 200px;
+height: 15px;
+font-family: Poppins;
+font-weight: 600;
+font-size: 15px;
+line-height: 100%;
+letter-spacing: 0%;
+color: white;
+border-bottom: 2px solid red;
+
+
+}  
+ .he-re{
+    margin-left: 10px;
+    padding-top: 19px;
+ }
+  .firstbg-re{
+    background-image: url("./public/reliable-img/reliable-bg1.png");
+    background-size: cover;
+    height: 100px;
+    width: 200px;
+    /* margin-top: -22px;
+    margin-left: -80px; */
+  }
+
+  .second-re{
+     background-image: url("./public/reliable-img/reliable-bg2.png");
+    background-size: cover;
+    width: 100%;
+    height: 150px;
+    margin-left: 0px;
+  }
+  .second-re-info{
+    display: flex;
+   gap: 10px;
+   margin-left: 13px;
+   margin-top: 85px;
+    
+  }
+
+  .hdpe{
+    font-family: Poppins;
+font-weight: 500;
+font-size: 8px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: white;
+
+  }
+  .re-info-num{
+    font-family: Poppins;
+font-weight: 500;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-transform: uppercase;
+color: white;
+  }
+
+
+  }
