@@ -25,15 +25,17 @@ const About = () => {
               with the most modern machines and equipment.
             </p>
             <a href="#">
-              <button>Learn More</button>
+              <button type="button" class="btn btn-danger">
+                Learn More
+              </button>
             </a>
           </div>
         </Col>
         <Col sm={12} md={12} lg={6}>
           <div className="aboutimg-div">
             <img
-              src="./public/about-img/aboutimg.png"
-              alt=" Factory img"
+              src="about-img/aboutimg.png"
+              alt="Factory img"
               height="550px"
               width="500px"
               className="a-img"

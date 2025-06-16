@@ -17,7 +17,7 @@ const Footer = () => {
             <div className="knack">
               <div className="logo2">
                 <img
-                  src="./public/nav-img/nav-logo.png"
+                  src="/nav-img/nav-logo.png"
                   height="100px"
                   width="77px"
                   alt=""

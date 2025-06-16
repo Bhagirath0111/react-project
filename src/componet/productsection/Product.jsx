@@ -17,7 +17,7 @@ const Product = () => {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="./public/product-img/product-c1.png"
+                  src="/product-img/product-c1.png"
                   className="card-img"
                 />
                 <Card.Body className="card-body">
@@ -27,7 +27,7 @@ const Product = () => {
                     </Card.Title>
                     <a href="#">
                       <img
-                        src="./public/product-img/product-b.png"
+                        src="/product-img/product-b.png"
                         alt=""
                         height="30px"
                         width="30px"
@@ -47,7 +47,7 @@ const Product = () => {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="./public/product-img/product-c2.png"
+                  src="/product-img/product-c2.png"
                   className="card-img"
                 />
                 <Card.Body className="card-body">
@@ -58,7 +58,7 @@ const Product = () => {
                     <a href="#">
                       {" "}
                       <img
-                        src="./public/product-img/product-b.png"
+                        src="/product-img/product-b.png"
                         alt=""
                         height="30px"
                         width="30px"
@@ -78,7 +78,7 @@ const Product = () => {
               <Card>
                 <Card.Img
                   variant="top"
-                  src="./public/product-img/product-c3.png"
+                  src="/product-img/product-c3.png"
                   className="card-img"
                 />
                 <Card.Body className="card-body">
@@ -89,7 +89,7 @@ const Product = () => {
                     <a href="#">
                       {" "}
                       <img
-                        src="./public/product-img/product-b.png"
+                        src="/product-img/product-b.png"
                         alt=""
                         height="30px"
                         width="30px"

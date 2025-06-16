@@ -1,5 +1,5 @@
 .bg-img {
-  background-image: url("./public/hero-img/hero-bg.png");
+  background-image: url("/hero-img/hero-bg.png");
   background-size: cover;
   width: 100%;
   /* height: 600px; */
@@ -70,7 +70,7 @@ span {
 
 @media only screen and (max-width: 440px) {
   .bg-img {
-    background-image: url("./public/hero-img/hero-bg.png");
+    background-image: url("/hero-img/hero-bg.png");
     background-size: cover;
     width: 100%;
     height: 300px;

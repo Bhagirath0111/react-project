@@ -13,7 +13,7 @@ const Hero = () => {
             Laminated PP Woven Bags in India.
           </p>
           <a href="#">
-            <button> Read More </button>
+            <button type="button" class="btn btn-danger">Read More</button>
           </a>
         </div>
       </div>

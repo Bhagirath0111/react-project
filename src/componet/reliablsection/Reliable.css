@@ -21,7 +21,7 @@ border-bottom: 2px solid red;
     padding-top: 50px;
  }
   .firstbg-re{
-    background-image: url("./public/reliable-img/reliable-bg1.png");
+    background-image: url("/reliable-img/reliable-bg1.png");
     background-size: cover;
     height: 200px;
     width: 400px;
@@ -29,7 +29,7 @@ border-bottom: 2px solid red;
   }
 
   .second-re{
-     background-image: url("./public/reliable-img/reliable-bg2.png");
+     background-image: url("/reliable-img/reliable-bg2.png");
     background-size: cover;
     width: 100%;
     height: 300px;
@@ -93,7 +93,7 @@ border-bottom: 2px solid red;
     padding-top: 19px;
  }
   .firstbg-re{
-    background-image: url("./public/reliable-img/reliable-bg1.png");
+    background-image: url("/reliable-img/reliable-bg1.png");
     background-size: cover;
     height: 100px;
     width: 200px;
@@ -102,7 +102,7 @@ border-bottom: 2px solid red;
   }
 
   .second-re{
-     background-image: url("./public/reliable-img/reliable-bg2.png");
+     background-image: url("/reliable-img/reliable-bg2.png");
     background-size: cover;
     width: 100%;
     height: 150px;
@@ -119,7 +119,7 @@ border-bottom: 2px solid red;
   .hdpe{
     font-family: Poppins;
 font-weight: 500;
-font-size: 8px;
+font-size: 4px;
 line-height: 100%;
 letter-spacing: 0%;
 text-transform: uppercase;
@@ -129,7 +129,7 @@ color: white;
   .re-info-num{
     font-family: Poppins;
 font-weight: 500;
-font-size: 20px;
+font-size: 10px;
 line-height: 100%;
 letter-spacing: 0%;
 text-transform: uppercase;

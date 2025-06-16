@@ -7,7 +7,7 @@ import { FaStar } from "react-icons/fa";
 const Testimonial = () => {
   return (
     <>
-      <h1 className="test-heading"> Testimonial</h1>
+      <h2 className="test-heading"> Testimonial</h2>
       <Container>
         <Row className="main-test">
           {/* <div className="test-col-div"> */}
@@ -16,7 +16,7 @@ const Testimonial = () => {
             <div className="test-fiest-div">
               <div className="test-img">
                 <img
-                  src="./public/test-img/test-1.png"
+                  src="/test-img/test-1.png"
                   alt=""
                   height="90px"
                   width="90px"
@@ -50,7 +50,7 @@ const Testimonial = () => {
             <div className="test-fiest-div">
               <div className="test-img">
                 <img
-                  src="./public/test-img/test-1.png"
+                  src="/test-img/test-1.png"
                   alt=""
                   height="90px"
                   width="90px"
@@ -84,7 +84,7 @@ const Testimonial = () => {
             <div className="test-fiest-div">
               <div className="test-img">
                 <img
-                  src="./public/test-img/test-1.png"
+                  src="/test-img/test-1.png"
                   alt=""
                   height="90px"
                   width="90px"

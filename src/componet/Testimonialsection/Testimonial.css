@@ -42,13 +42,13 @@
     margin-top: 50px;
   }
   .test-p {
-    width: 400px;
+    width: 300px;
     height: 94px;
     top: 158.93px;
     left: 41.26px;
     font-family: Poppins;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 15px;
     line-height: 100%;
     letter-spacing: 0%;
     color: #6b7280;
@@ -65,7 +65,7 @@
   }
   .test-heading {
     position: relative;
-    right: 530px;
+    right: 550px;
   }
   .main-test {
     padding-top: 10px;

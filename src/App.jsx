@@ -27,7 +27,7 @@ const App = () => {
           <Navbar expand="lg" className="bg-body-tertiary ">
             <div id="logo">
               <img
-                src="./public/nav-img/nav-logo.png"
+                src="nav-img/nav-logo.png"
                 height="100px"
                 width="77px"
                 alt=""
@@ -54,19 +54,19 @@ const App = () => {
                   <Nav.Link href="#home" id="nav-link" className="home">
                     Home
                   </Nav.Link>
-                  <Nav.Link href="#home" id="nav-link" className="quality">
+                  <Nav.Link href="#quality assurance" id="nav-link" className="quality">
                     quality assurance
                   </Nav.Link>
-                  <Nav.Link href="#home" id="nav-link" className="product">
+                  <Nav.Link href="#product type" id="nav-link" className="product">
                     product type
                   </Nav.Link>
-                  <Nav.Link href="#home" id="nav-link" className="product">
+                  <Nav.Link href="#product use" id="nav-link" className="product">
                     product use
                   </Nav.Link>
-                  <Nav.Link href="#home" id="nav-link" className="recyclable">
+                  <Nav.Link href="#i am 100% recyclable" id="nav-link" className="recyclable">
                     i am 100% recyclable
                   </Nav.Link>
-                  <Nav.Link href="#home" id="nav-link" className="contect">
+                  <Nav.Link href="#Content us" id="nav-link" className="contect">
                     Content us
                   </Nav.Link>
                 </Nav>
